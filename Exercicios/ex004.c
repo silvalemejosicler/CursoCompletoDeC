@@ -37,6 +37,6 @@ void main() {
     printf("NOME                 SEXO  NOTA\n");
     printf("%-20s %c %6.1f\n", nome1, sexo1, nota1);
     printf("%-20s %c %6.1f\n", nome2, sexo2, nota2);
-    printf("%-20s %c $6.1f\n", nome3, sexo3, nota3);
+    printf("%-20s %c %6.1f\n", nome3, sexo3, nota3);
     printf("---------------------------------------\n");
 }
